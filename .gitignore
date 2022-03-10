@@ -1,0 +1,14 @@
+.embark
+chains.json
+config/livenet/password
+config/production/password
+coverage
+dist
+embarkArtifacts
+node_modules
+.env
+assets/envrionment/.env
+build
+.flutter-plugins-dependencies
+.DS_Store
+.dart_tool/package_config.json
